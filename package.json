@@ -1,0 +1,22 @@
+{
+  "name": "@airwallex/node-base",
+  "version": "0.0.1",
+  "description": "node base for airwallex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "base"
+  ],
+  "author": "Robin.Yan <robin.yan@airwallex.com>",
+  "license": "ISC",
+  "dependencies": {
+    "is-type-of": "^1.2.1",
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0",
+    "lodash.mergewith": "^4.6.1",
+    "winston": "^3.1.0"
+  }
+}
