@@ -1,6 +1,6 @@
 {
-  "name": "@airwallex/node-base",
-  "version": "0.0.1",
+  "name": "@meatpie/node-base",
+  "version": "0.0.2",
   "description": "node base for airwallex",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "koa-router": "^7.4.0",
     "lodash.mergewith": "^4.6.1",
     "winston": "^3.1.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
