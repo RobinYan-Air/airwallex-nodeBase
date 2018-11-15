@@ -1,6 +1,6 @@
 {
   "name": "@meatpie/node-base",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "node base for airwallex",
   "main": "index.js",
   "scripts": {
