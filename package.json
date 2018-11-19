@@ -13,6 +13,7 @@
   "author": "Robin.Yan <robin.yan@airwallex.com>",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.1.0",
     "is-type-of": "^1.2.1",
     "koa": "^2.6.2",
     "koa-router": "^7.4.0",
